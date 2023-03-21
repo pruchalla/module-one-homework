@@ -46,22 +46,22 @@ header nav {
   font-size: 20px;
 }
 
-header nav ul {
-  list-style-type: none;
-}
-
 header nav ul li {
+  list-style-type: none;
   display: inline-block;
   margin-left: 25px;
 }
 
+/* Hero image styling */
+
 .hero {
-  height: 800px;
+  height: auto;
   width: 100%;
   margin-bottom: 25px;
-  background-image: url("../images/digital-marketing-meeting.jpg");
-  background-size: cover;
-  background-position: center;
+}
+
+.hero img {
+  width: 100%;
 }
 
 .float-left {
