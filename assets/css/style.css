@@ -133,7 +133,9 @@ aside section img {
   max-width: 150px;
 }
 
-.footer {
+/* Footer Styling */
+
+footer {
   padding: 30px;
   clear: both;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -141,6 +143,6 @@ aside section img {
   text-align: center;
 }
 
-.footer h2 {
+footer h4 {
   font-size: 20px;
 }
